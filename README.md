@@ -1,11 +1,10 @@
 
 ** Hola mundo
 
-Hola, mi nombre es Santiago Andrés Comas Durán. Soy un estudiante con pasión por el desarrollo de software y me encuentro en proceso de formación para ser ingeniero de sistemas en la Universidad de la Costa. Mi interés en la tecnología me impulsó a participar en el programa Jóvenes Creativos de la Fundación ROFE, donde me formé en desarrollo web y adquirí conocimientos fundamentales en HTML, CSS y JavaScript.
-<!---
-SantiagoComas07/SantiagoComas07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudiante de Ingeniería de Sistemas y Desarrollador Full-Stack Junior, con sólidos conocimientos en HTML, CSS y JavaScript, enfocado en la creación de interfaces modernas y funcionales. Experiencia en el uso de Tailwind CSS, desarrollo backend con Node.js, y control de versiones mediante Git y GitHub.
+
+Actualmente, me encuentro fortaleciendo mi perfil profesional mediante el aprendizaje y la práctica de React, Express y NestJS, incorporando estas tecnologías de manera progresiva en proyectos personales y académicos. Me caracterizo por ser una persona proactiva, con interés constante en aprender nuevas tecnologías y mejorar mis habilidades en el desarrollo web full-stack.
+
 
 
 <p align="center">
@@ -28,4 +27,15 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+
+---
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
