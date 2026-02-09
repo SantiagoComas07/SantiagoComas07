@@ -1,9 +1,9 @@
 
-**Hola mundo
+** Hola mundo
 
-Estudiante de Ingeniería de Sistemas y Desarrollador Full-Stack Junior, con sólidos conocimientos en HTML, CSS y JavaScript y phyton enfocado en la creación de interfaces modernas y funcionales. Experiencia en el uso de typescript, Tailwind CSS, desarrollo backend con FastAPI, Node.js y control de versiones mediante Git y GitHub.
+Estudiante de Ingeniería de Sistemas y Desarrollador Full-Stack Junior, con sólidos conocimientos en HTML, CSS, JavaScript y Python. Cuento con experiencia en el uso de TypeScript, Tailwind CSS, Node.js, FastAPI, así como en control de versiones mediante Git y GitHub.
 
-Actualmente, me encuentro fortaleciendo mi perfil profesional mediante el aprendizaje y la práctica de React, Express y NestJS, incorporando estas tecnologías de manera progresiva en proyectos personales y académicos. Me caracterizo por ser una persona proactiva, con interés constante en aprender nuevas tecnologías y mejorar mis habilidades en el desarrollo web full-stack.
+Actualmente, me encuentro fortaleciendo mi perfil profesional a través del aprendizaje y la práctica continua de React y Express, incorporando estas tecnologías de manera progresiva en proyectos personales y académicos. Me caracterizo por ser una persona proactiva, con alta motivación por el aprendizaje constante y un fuerte interés en mejorar mis habilidades en el desarrollo web full-stack.
 
 
 
